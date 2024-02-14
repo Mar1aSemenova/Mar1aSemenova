@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mar1aSemenova
+- 👋 Hi, I’m Maria Semenova
 - 👀 I’m interested in QA Manual Testing
 - 🌱 I’m currently learning online in Y_LAB_University
 - 📫 How to reach me on telegram @mar1a_semenova
